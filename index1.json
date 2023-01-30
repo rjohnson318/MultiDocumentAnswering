@@ -1,0 +1,5 @@
+{
+    "id": "item{0}".format(i),
+    "productName": "Widget",
+    "productModel": "Model {0}".format(i)
+}

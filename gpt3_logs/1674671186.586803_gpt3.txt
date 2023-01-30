@@ -1,0 +1,18 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question:
+
+
+QUESTION: What does this handbook say about computer infmation security and list a few items that users should not be doing
+
+
+PASSAGE: responsibilitiesorwithapplicablelawsandregulations.Eachuserispersonallyresponsibleto ensurethattheseguidelinesarefollowed.Seriousrepercussions,includingtermination,may resultiftheguidelinesarenotfollowed.    {ORGANIZATIONNAME}maymonitorusageoftheInternetbyemployees,including reviewingalistofsitesaccessedbyanindividual.Noindividualshouldhaveanyexpectation ofprivacyintermsofhisorherusageoftheInternet.Inaddition,{ORGANIZATIONNAME} mayrestrictaccesstocertainsitesthatitdeemsarenotnecessaryforbusinesspurposes.    {ORGANIZATIONNAME}sconnectiontotheInternetmaynotbeusedforanyofthe followingactivities:    TheInternetmustnotbeusedtoaccess,create,transmit,printordownload materialthatisderogatory,defamatory,obscene,oroffensive,suchasslurs,  22     NEW PAGE    epithets,oranythingthatmaybeconstruedasharassmentordisparagement basedonrace,color,nationalorigin,sex,sexualorientation,age,disability, medicalcondition,maritalstatus,orreligiousorpoliticalbeliefs.    TheInternetmustnotbeusedtoaccess,send,receiveorsolicitsexuallyoriented  messagesorimages.    Downloadingordisseminatingofcopyrightedmaterialthatisavailableonthe Internetisaninfringementofcopyrightlaw.Permissiontocopythematerial mustbeobtainedfromthepublisher.Forassistancewithcopyrightedmaterial, contactcomputersupportortheExecutiveDirector.    WithoutpriorapprovaloftheExecutiveDirector,softwareshouldnotbe downloadedfromtheInternetasthedownloadcouldintroduceacomputer virusonto{ORGANIZATIONNAME}scomputerequipment.Inaddition, copyrightlawsmaycoverthesoftwaresothedownloadingcouldbean infringementofcopyrightlaw.    EmployeesshouldsafeguardagainstusingtheInternettotransmitpersonal commentsorstatementsthroughemailortopostinformationtonewsgroups thatmaybemistakenasthepositionof{ORGANIZATIONNAME}.    Employeesshouldguardagainstthedisclosureofconfidentialinformation throughtheuseofInternetemailornewsgroups.    EmployeesshouldnotdownloadpersonalemailorInstantMessagingsoftware to{ORGANIZATIONNAME}computers.    TheInternetshouldnotbeusedtosendorparticipateinchainletters,pyramid schemesorotherillegalschemes.    TheInternetshouldnotbeusedtosolicitorproselytizeothersforcommercial purposes,causes,outsideorganizations,chainmessagesorothernonjobrelated purposes.    TheInternetshouldnotbeusedtoendorsepoliticalcandidatesorcampaigns    TheInternetprovidesaccesstomanysitesthatchargeasubscriptionorusagefeeto accessandusetheinformationonthesite.Requestsforapprovalmustbesubmittedtoyour supervisor.    23     NEW PAGE     Ifyouhaveanyquestionsregardinganyofthepolicyguidelineslistedabove,please contactyoursupervisor,ortheExecutiveDirector.      Revised{Date} ApprovedbytheExecutiveCommitteeofthe{ORGANIZATIONNAME}BoardofDirectors  24     NEW PAGE
+
+
+DETAILED ANSWER:
+
+==========
+
+RESPONSE:
+
+According to this handbook, computer information security is the responsibility of each individual user. Some of the activities that are not allowed include accessing, creating, transmitting, printing, or downloading offensive material, downloading or disseminating copyrighted material, downloading software without prior approval, and using the Internet to solicit or proselytize.
